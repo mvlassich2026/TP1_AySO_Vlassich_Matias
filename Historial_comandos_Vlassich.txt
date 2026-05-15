@@ -1,0 +1,389 @@
+}va
+vagrant ssh
+3004
+vagrant ssh
+ls -l
+whoami
+echo $home
+echo $HOME
+man
+man man
+clean
+clear
+ls
+ls -la
+mkdir clase4_114
+cd clase4_114
+cat > archivo.txt
+cat archivo
+cat archivo.txt
+cat > archivo2.txt
+ls
+ls -l
+cd clase4_114
+ls
+cat archivo2.txt
+archivo.txt archivo2.txt >> archivo3.txt
+cat archivo.txt archivo2.txt >> archivo3.txt
+cat archivo3.txt
+ls
+cd carpeta_compartida
+ls
+cd Vagrantfile
+CD
+cd
+ls
+cd clase4_114
+ls
+cat archivo3.txt 
+cat -help
+cat --help
+clear
+ls
+rm archivo.txt
+ls
+rm *
+ls
+ls -la
+ls -l
+cat archivo.txt
+cat cat
+cat -help
+cat --help
+cclear
+cleas
+whoami
+pwd
+cat archivo1.txt
+cat > archivo1.txt
+cat > archivo2.txt
+rep dias archivo1.txt
+grep
+grep -i dias archivo1.txt
+grep dias archivo1.txt
+grep -i DIAS archivo1.txt
+grep DIAS archivo1.txt
+grep -i DIAS archivo1.txt
+grep -n dias archivo1.txt
+grep -c dias archivo1.txt
+grep -n dias archivo1.txt
+grep martes archivo1.txt
+grep martes archivo1.txt | archivo2.txt
+grep martes {archivo1.txt archivo2.txt}
+grep martes{archivo1.txt archivo2.txt}
+grep martes archivo1.txt | grep martes archivo2.txt
+grep -l martes archivo1.txt | grep -l martes archivo2.txt
+grep -l martes
+grep -l martes *
+grep martes *
+grep -i martes *
+ls
+cat archivo2.txt
+ls -l .ssh/
+ls -l ssh keygen -t
+cd
+ls -l ssh keygen -t ed25519
+ssh-keygen -t ed25519
+ls
+ls -l
+ls -la
+cd .ssh
+ls
+ls -la
+ls l
+ls -l
+ls
+cat id_ed25519.pub
+vagrant hunt
+vagrant hant
+vagrant off
+ls
+ls -l
+ls -la
+ls .ssh
+ls
+cd .ssh
+ls
+cat id_ed25519
+cat id_ed25519.pub 
+cd
+cd repogit
+ls
+git clone git@github.com:mvlassich2026/vmvagrant_repo.git
+ls
+cd vmvagrant_repo/
+ls
+pwd
+cd ..
+ls
+ls -l
+ls -la
+cd .
+cd ..
+cd
+ls
+tree
+sudo apt install tree
+tree
+less
+ls
+cat /proc/cpuinfo | less
+tree
+ls
+cd repogit
+ls
+cd ..
+ls
+mkdir
+mkdir --help
+mkdir prueba
+ls
+cd prueba
+ls
+cd
+rm prueba
+rmdir prueba
+ls
+mkdir clase4
+ls clase4
+cd clase4
+pwd
+mkdir practica
+ls
+cd practica
+ls
+tree
+cd
+ls
+tree
+ls
+cd clase4
+tree
+cd practica
+ls
+touch practica1.txt
+ls
+cp practica1.txt practica2.txt
+ls
+rmdir practica1.txt
+rm practica1.txt
+ls
+cp *
+mv practica2.txt
+mv practica2.txt ..
+ls
+cd ..
+ls
+rmdir practica
+ls
+w
+ls
+rm practica2.txt
+ls
+tree
+cd
+ls
+cd clase4_114
+ls
+cd
+ls
+cd clase4
+mkdir -p {dir1,dir2}/subdir{1..3}
+ls
+tree
+rm *
+rmdir *
+ls
+rmdir dir1
+rm dir1
+rm -r *
+ls
+pwd
+mkdir Vlassich
+ls
+cd Vlassich
+mkdir -p {mama/hijo{1..3},dir2{hijo{1..3},ahijado}}
+ls
+tree
+ñs
+cd
+ls
+cd clase4
+ls
+rm Vlassich
+rm -p Vlassicnh
+rm -p Vlassich
+rm -r Vlassich
+ls
+tree
+mkdir -p {mama/hijo{1..3},papa/{hijo{1..3},ahijado}}
+tree
+cd
+w
+o
+id
+lsa
+ls
+ls -l
+ls -la
+ls
+cd clase4
+ls
+tree
+ls
+rm *
+rmdir *
+ls
+remove
+helpo
+help
+hello
+help
+clear
+ls
+rmdir -i *
+rmdir -l *
+rmdir
+rm *
+rmdir *
+rmdir -l *
+rmdir --l *
+rmdir -i *
+rmdir -r *
+rmdir -r
+ñs
+ls
+rmdir * -r
+rm -r
+rm * -r
+ls
+clear
+mkdir -p dir1/subdir{1..3},4/dir2/subdir{1..3}
+tree
+ls
+rm -r *
+ls
+mkdir -p dir1/{subdir{1..3},4/dir2/{subdir{1..3}}
+ls
+tree
+rm -r *
+mkdir -p dir1/{subdir{1..3},subdir4}/dir2/{subdir{1..3}}
+tree
+rm -r *
+mkdir -p dir1/{subdir{1..3},subdir4}/dir2/subdir{1..3}
+tree
+rm -r *
+mkdir -p dir1/subdir{{1..3},subdir4}/dir2/subdir{1..3}
+tree
+rm -r *
+mkdir -p {dir1/subdir{1..3},subdir4},{dir2/subdir{1..3}
+tree
+rm -r *
+mkdir -p {dir1/subdir{1..3},subdir4},dir2/subdir{1..3}
+tree
+ls -r *
+rm -r *
+ls
+mkdir -p {dir1/{subdir{1..3},subdir4}},dir2/subdir{1..3}
+tree
+rm -r *
+mkdir -p {dir1/{subdir{1..3},subdir4},dir2/subdir{1..3}
+tree
+rm -r *
+mkdir -p {dir1/{subdir{1..3},subdir4},dir2/subdir{1..3}}
+tree
+clear
+mkdir -p {practicaX/{trabajo/{word,excel,pdf}},{juegos/{steam,emulador,{retro/{nes,sega}}},{musica/{rock,pop}}}
+tree
+rm -r *
+ls
+mkdir -p practicaX/{trabajo/{word,excel,pdf}},{juegos/{steam,emulador,{retro/{nes,sega}}}},{musica/{rock,pop}}
+tree
+rm -r *
+tree
+ls
+clear
+mkdir -p practicaX/trabajo/{word,excel,pdf},juegos/{steam,emulador,{retro/{nes,sega}}},musica/{rock,pop}
+tree
+rm -r *
+mkdir -p practicaX/{trabajo/{word,excel,pdf},juegos/{steam,emulador,{retro/{nes,sega}}},musica/{rock,pop}}
+tree
+rm -r *
+mkdir -p practicaX/{trabajo/{word,excel,pdf},juegos/{steam,emulador,{retro/{nes,sega}},musica/{rock,pop}}
+tree
+rm -r *
+mkdir -p practicaX/{trabajo/{word,excel,pdf},juegos/{steam,emulador,retro/{nes,sega}},musica/{rock,pop}}
+tree
+cdf
+cd
+ssh-keygen -t ed25519
+lds
+ls
+ls -la
+cd .ssh
+ls
+cd id_ed25519.pub
+ls
+cat id_ed25519
+cat id_ed25519.pub 
+clear
+cd
+mkdir repogit
+ls
+cd repogit
+ls
+git clone git@github.com:mvlassich2026/TP1_AySO_Vlassich_Matias.git
+cd TP1_AySO_Vlassich_Matias/
+pwd
+ls
+ls -l
+ls -la
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt 
+git add .
+git
+git config --global user.email "mvlassich2026@gmail.com"
+git config --global user.name "mvlassich2026"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt
+
+
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+whoami
+grep HOME_URL /etc/os-release
+cat /etc/os-release
+grep
+grep model name
+grep model
+cat /etc/os-release
+cat "model name" etc/os-release
+cat "model name" /proc
+grep "model name" etc/os-release
+grep "model name" /proc
+grep "model name" /proc/cpuinfo
+ls
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt 
+git add .
+git commit -m "feat: Añadimos informacion de CPU con | head -n1 (linea 1 del anterior del grep)"
+git push
+git status
+git pushh
+git push
+cat <<EOF >> README.md 
+Alumno: <Matias Vlassich>
+Division: <114>
+Turno: <Mañana>
+EOF
+
+git add .
+git commit -m "ADD: Añadiendo Readme y datos de usuario
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
+$HOME/.bash_history
+sudo su
